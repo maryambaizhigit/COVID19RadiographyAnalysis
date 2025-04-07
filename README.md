@@ -1,4 +1,3 @@
-# COVID-19 Radiography Analysis
 # COVID-19 Radiography Analysis 🩻📊
 
 This project demonstrates end-to-end data analysis and predictive modeling using radiographic image data to classify COVID-19 and other lung conditions. The goal was to explore machine learning approaches to medical imaging problems using structured metadata and visual patterns in chest X-rays.
